@@ -3,6 +3,9 @@
 using namespace std;
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
     bool is_left = true;
     for (string line; getline(cin, line);) {
         for (char c : line) {
