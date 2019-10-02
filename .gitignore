@@ -35,6 +35,7 @@
 .idea/
 cmake-build-debug/
 
-# Sample
-*.txt
-main.cpp
+# Others
+/main.cpp
+/in1.txt
+/ans1.txt
