@@ -1,4 +1,4 @@
 # uvaoj-cpp
-UVa OJ solutions written in C++
+UVa OJ problem solutions written in C++
 
 https://code.google.com/archive/p/aoapc-book/
